@@ -1,6 +1,6 @@
 # getpoints
 
-Get points coordinates on an image by clicking in a python jupyter notebook.
+Get points coordinates on an image by clicking in a python or sagemath jupyter notebook.
 
 Requires: ipywidgets, ipycanvas, imagesize.
 
