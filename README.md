@@ -16,10 +16,14 @@ See the sample notebook for an example.
 
 ## The story
 
-This was inspired by the nice problem ["Volume of Vase" pedagogical activity](https://services.math.duke.edu/education/webfeatsII/gdrive/Team%20A/OurPage.htm) (about numerical integration). It can be used also to have students work with interpolation.
+This was inspired by the nice pedagogical activity ["Volume of Vase"](https://services.math.duke.edu/education/webfeatsII/gdrive/Team%20A/OurPage.htm) (about numerical integration). This update the tools for this cativity. It can also used to work on interpolation.
 
 ## Example
 
 Here is the screen capture of an example.
 
 <img src="screencapture.png" width=800>
+
+## Alternative
+
+The implementation `getpoints_tk.py` is an alternative using the modules *tk* and *pillow* instead of *ipywigets*,  *ipycanvas* and *imagesize*.
