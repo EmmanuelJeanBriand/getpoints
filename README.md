@@ -18,11 +18,13 @@ Here is the screen capture of an example.
 
 <img src="screencapture.png" width=800>
 
+---
+
 ## Alternative
 
 The implementation in the file `getpoints_tk.py` is an alternative using the modules *tk* and *pillow* instead of *ipywigets*,  *ipycanvas* and *imagesize*.
 
-### How to use
+### How to use the alternative `get_points
 
 1. Import or load `get_points` from `getpoints_tk.py`
 2. Run `L = get_points("IMAGEFILE")` where IMAGEFILE is the path of an image.
@@ -33,4 +35,4 @@ The implementation in the file `getpoints_tk.py` is an alternative using the mod
 
 ## The story
 
-This was inspired by the nice pedagogical activity ["Volume of Vase"](https://services.math.duke.edu/education/webfeatsII/gdrive/Team%20A/OurPage.htm) (about numerical integration). This update the tools for this cativity. It can also used to work on interpolation.
+This was inspired by the nice pedagogical activity ["Volume of Vase"](https://services.math.duke.edu/education/webfeatsII/gdrive/Team%20A/OurPage.htm) (about numerical integration). This updates the tools for this activity. It can also used to work on interpolation.
